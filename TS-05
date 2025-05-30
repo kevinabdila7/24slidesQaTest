@@ -7,7 +7,7 @@ Masukkan alamat email: "naruto1234441@gmail.com"
 Klik kolom input password (id = loginPassword)
 Masukkan password: "qwerty12345"
 Klik tombol "Submit" untuk login (berdasarkan atribut: button[type='submit'])
-Verifikasi bahwa elemen yang menunjukkan hasil login (seperti modal login atau pesan error) muncul
+Verifikasi bahwa elemen yang menunjukkan hasil gagal login muncul
 
 //Groovy
 

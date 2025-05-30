@@ -5,9 +5,8 @@ Klik link dengan teks "Login"
 Klik kolom input email (id = loginEmail)
 Isi kolom email dengan "kevinabdillah24@gmail.com"
 Klik kolom input password (id = loginPassword)
-Isi kolom password dengan "Mindfreak10!"
+Isi kolom password dengan "********"
 Klik tombol submit login (berdasarkan atribut: button[type='submit'])
-Periksa apakah elemen dengan ID "dLabel" muncul di halaman
 
 //Groovy Code
 
